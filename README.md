@@ -22,10 +22,10 @@ __Requirements for Project__
   
 ## Results
 Successfully stored mars fact data in MongoDB and visualized using Flask.  The fact table image was updated using Bootstrap.
-![June Analysis](https://github.com/SheaButta/surfs_up/blob/main/Resources/JuneTemps.PNG)
+![Mars Fact Table](https://github.com/SheaButta/Mission-to-Mars/blob/main/images/Mars_factsheet_table.PNG)
 
 Successfully stored mars hemisphere data in MongoDB and visualized using Flask.  This image was updated using Bootstrap.
-![December Analysis](https://github.com/SheaButta/surfs_up/blob/main/Resources/DecemberTemps.PNG)
+![Mars Hemispheres](https://github.com/SheaButta/Mission-to-Mars/blob/main/images/Mars_hemisphere_images.PNG)
 
 
 ## Summary
