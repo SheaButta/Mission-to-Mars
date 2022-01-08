@@ -33,7 +33,7 @@ Successfully stored mars hemisphere data in MongoDB and visualized using Flask. 
 This project proved that unstructed data can be easily saved in a MongoDB database. With Mongo in my arsenal now and the understanding of collections vs tables, I can can easily work with structed and unstructed data using most database environments in the cloud or on-prem.  
 
 
-(https://github.com/SheaButta/Mission-to-Mars/blob/main/images/Mission-to-Mars_title.PNG)
+![](https://github.com/SheaButta/Mission-to-Mars/blob/main/images/Mission-to-Mars_title.PNG)
 
  
     
