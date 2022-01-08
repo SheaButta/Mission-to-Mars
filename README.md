@@ -18,6 +18,7 @@ __Requirements for Project__
 - Splinter
 - Beautiful Soup
 - Visual Studio
+- MongoDB
 
   
 ## Results
@@ -29,7 +30,7 @@ Successfully stored mars hemisphere data in MongoDB and visualized using Flask. 
 
 
 ## Summary
-This project proved that I could save unstructed data in a MongoDB database and review the collection in Mongo.  With Mongo in my arsenal now, I can not save structed and unstructed data using various database management systems to include SQL Server, SQLite, PostgreSQL and Mongo to name a few.
+This project proved that unstructed data can be easily saved in a MongoDB database. With Mongo in my arsenal now and the understanding of collections vs tables, I can can easily work with structed and unstructed data using most database environments in the cloud or on-prem.
  
     
  
