@@ -25,7 +25,7 @@ Successfully stored mars fact data in MongoDB and visualized using Flask.  The f
 ![Mars Fact Table](https://github.com/SheaButta/Mission-to-Mars/blob/main/images/Mars_factsheet_table.PNG)
 
 Successfully stored mars hemisphere data in MongoDB and visualized using Flask.  This image was updated using Bootstrap.
-![Mars Hemispheres](https://github.com/SheaButta/Mission-to-Mars/blob/main/images/Mars_hemisphere_images.PNG)
+![Mars Hemispheres](https://github.com/SheaButta/Mission-to-Mars/blob/main/images/Mars_hemisphere_Images.PNG)
 
 
 ## Summary
